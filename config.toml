@@ -1,0 +1,46 @@
+baseURL = 'http://eleanordavies.uk/'
+languageCode = 'en-uk'
+title = 'Eleanor Davies'
+theme = "hallo"
+[author]
+  name = "Eleanor Davies"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/mavi0"
+    [[params.links]]
+        icon = "whatsapp"
+        title = "Whatsapp"
+        url = "https://wa.me/447810818562"
+    [[params.links]]
+        icon = "telegram"
+        title = "Telegram"
+        url = "t.me/lucklessduchess"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:ellie@mavieson.co.uk"
+    [[params.links]]
+        iconset = "fas"
+        icon = "file-pdf"
+        title = "Curriculum Vitae"
+        url = "https://eleanor.is/phyche"
+    [[params.links]]
+        iconorigin = "ai"
+        iconset = "ai"
+        icon = "google-scholar"
+        title = "Google Scholar"
+        url = "https://scholar.google.com/citations?user=lQ_TyusAAAAJ&hl=en"
+    [[params.links]]
+        iconorigin = "ai"
+        iconset = "ai"
+        icon = "ieee"
+        title = "IEEE Explore"
+        url = "https://ieeexplore.ieee.org/author/37087107958"
+
+        
+
+
+        
